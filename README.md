@@ -47,7 +47,7 @@ This design improves geometric fidelity, structural consistency, and geometric c
 ## Note
 
 - This repository is maintained as the **lab-facing entry page**.
-- For the latest code, setup instructions, evaluation scripts, figures, and updates, please visit the official repository:
+- For the latest code, setup instructions, evaluation scripts, figures, and updates, please visit the official repository: [![Official Code](https://img.shields.io/badge/Official%20Code-GitHub-1f6feb.svg)](https://github.com/EESJGong/Graph-CAD)
 
 ## Citation
 
