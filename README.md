@@ -17,6 +17,12 @@
 
 ---
 
+<div align="center">
+
+### [Go To The Official Graph-CAD Repository](https://github.com/EESJGong/Graph-CAD)
+
+</div>
+
 ## Overview
 
 This repository is the laboratory entry point for **Graph-CAD**, a graph-mediated Text-to-CAD framework for long-horizon CAD code generation.  
@@ -42,12 +48,6 @@ This design improves geometric fidelity, structural consistency, and geometric c
 
 - This repository is maintained as the **lab-facing entry page**.
 - For the latest code, setup instructions, evaluation scripts, figures, and updates, please visit the official repository:
-
-<div align="center">
-
-### [Go To The Official Graph-CAD Repository](https://github.com/EESJGong/Graph-CAD)
-
-</div>
 
 ## Citation
 
